@@ -1,0 +1,2 @@
+export const SET_CONTENTFUL = 'SET_CONTENTFUL'
+export const SET_CURRENT = 'SET_CURRENT'
